@@ -10,7 +10,7 @@ public class JdbcDemo {
 
    // Database credentials
    static final String USER = "root";// add your user
-   static final String PASSWORD = "Girdhar@123";// add password
+   static final String PASSWORD = "password";// add password
 
    public static void main(String[] args) {
       Connection conn = null;
